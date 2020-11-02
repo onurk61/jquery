@@ -1,0 +1,1 @@
+This is just a practice from udemy jquery course !!!
